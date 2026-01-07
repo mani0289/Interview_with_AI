@@ -3,7 +3,6 @@ __pycache__/
 env/
 venv/
 *.egg-info/
-.streamlit/
 build/
 dist/
 .env
