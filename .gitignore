@@ -6,3 +6,4 @@ venv/
 .streamlit/
 build/
 dist/
+.env
