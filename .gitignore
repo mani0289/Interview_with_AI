@@ -5,3 +5,5 @@ env/
 venv/
 *.egg-info/
 .streamlit/
+build/
+dist/
