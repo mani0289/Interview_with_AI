@@ -1,6 +1,7 @@
 [theme]
-primaryColor = "#008080"
-backgroundColor = "#f0f2f6"
-secondaryBackgroundColor = "#e0f2f1"
-textColor = "#262730"
+base = "dark"
+primaryColor = "#00FFC2"   # A neon mint green for buttons (very cyber)
+backgroundColor = "#131720" # Very dark blue-grey (softer than pure black)
+secondaryBackgroundColor = "#262D3D" # Slightly lighter for the sidebar
+textColor = "#FFFFFF"
 font = "sans serif"
